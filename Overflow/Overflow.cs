@@ -299,7 +299,7 @@ namespace Overflow
         private void button1_Click(object sender, EventArgs e)
         {
             module.SendLuaScript(fastColoredTextBox1.Text);
-            module.SendLuaCScript(fastColoredTextBox1.Text);
+            
         }
 
         private void button3_Click(object sender, EventArgs e)
