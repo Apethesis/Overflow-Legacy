@@ -63,7 +63,7 @@ namespace Overflow
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(-22, -16);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(737, 69);
+            this.panel1.Size = new System.Drawing.Size(737, 52);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             this.panel1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
@@ -75,7 +75,7 @@ namespace Overflow
             this.button9.FlatAppearance.BorderSize = 0;
             this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button9.ForeColor = System.Drawing.Color.White;
-            this.button9.Location = new System.Drawing.Point(634, 28);
+            this.button9.Location = new System.Drawing.Point(634, 21);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(28, 30);
             this.button9.TabIndex = 2;
@@ -89,7 +89,7 @@ namespace Overflow
             this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button8.Font = new System.Drawing.Font("Comic Sans MS", 8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button8.ForeColor = System.Drawing.Color.White;
-            this.button8.Location = new System.Drawing.Point(596, 28);
+            this.button8.Location = new System.Drawing.Point(600, 22);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(28, 30);
             this.button8.TabIndex = 1;
@@ -102,7 +102,7 @@ namespace Overflow
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(277, 28);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(95, 34);
+            this.label1.Size = new System.Drawing.Size(95, 23);
             this.label1.TabIndex = 0;
             this.label1.Text = "Overflow";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -131,7 +131,6 @@ namespace Overflow
             this.fastColoredTextBox1.CommentPrefix = "--";
             this.fastColoredTextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.fastColoredTextBox1.DisabledColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
-            this.fastColoredTextBox1.Font = new System.Drawing.Font("Courier New", 9.75F);
             this.fastColoredTextBox1.ForeColor = System.Drawing.Color.White;
             this.fastColoredTextBox1.IndentBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(26)))), ((int)(((byte)(26)))));
             this.fastColoredTextBox1.IsReplaceMode = false;
@@ -139,14 +138,14 @@ namespace Overflow
             this.fastColoredTextBox1.LeftBracket = '(';
             this.fastColoredTextBox1.LeftBracket2 = '{';
             this.fastColoredTextBox1.LineNumberColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(96)))), ((int)(((byte)(96)))));
-            this.fastColoredTextBox1.Location = new System.Drawing.Point(12, 59);
+            this.fastColoredTextBox1.Location = new System.Drawing.Point(12, 49);
             this.fastColoredTextBox1.Name = "fastColoredTextBox1";
             this.fastColoredTextBox1.Paddings = new System.Windows.Forms.Padding(0);
             this.fastColoredTextBox1.RightBracket = ')';
             this.fastColoredTextBox1.RightBracket2 = '}';
             this.fastColoredTextBox1.SelectionColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(255)))));
             this.fastColoredTextBox1.ServiceColors = ((FastColoredTextBoxNS.ServiceColors)(resources.GetObject("fastColoredTextBox1.ServiceColors")));
-            this.fastColoredTextBox1.Size = new System.Drawing.Size(492, 258);
+            this.fastColoredTextBox1.Size = new System.Drawing.Size(492, 268);
             this.fastColoredTextBox1.TabIndex = 1;
             this.fastColoredTextBox1.Text = "-- By the overflow Team\r\n\r\n-- Pre-release Version \r\n";
             this.fastColoredTextBox1.Zoom = 100;
@@ -240,9 +239,9 @@ namespace Overflow
             this.listView1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(24)))), ((int)(((byte)(24)))));
             this.listView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(519, 59);
+            this.listView1.Location = new System.Drawing.Point(519, 49);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(121, 258);
+            this.listView1.Size = new System.Drawing.Size(121, 268);
             this.listView1.TabIndex = 8;
             this.listView1.UseCompatibleStateImageBehavior = false;
             // 
