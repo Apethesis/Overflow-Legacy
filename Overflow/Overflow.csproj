@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="FastColoredTextBox">
-      <HintPath>..\..\..\..\Downloads\FastColoredTextBox.dll</HintPath>
+      <HintPath>C:\Users\deaco\Downloads\FastColoredTextBox.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -48,7 +48,7 @@
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="WeAreDevs_API">
-      <HintPath>..\..\..\..\Downloads\WeAreDevs_API.dll</HintPath>
+      <HintPath>C:\Users\deaco\Downloads\WeAreDevs_API.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

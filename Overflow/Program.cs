@@ -7,7 +7,7 @@ using WeAreDevs_API;
 
 namespace Overflow
 {
-    public partial class Program : Program
+    public partial class Program 
     {
         readonly ExploitAPI api = new ExploitAPI();
         /// <summary>
