@@ -32,6 +32,15 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C83259801A933D35B40015C0B736BB1FCC691B65</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>GR.pfx</ManifestKeyFile>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="FastColoredTextBox">
       <HintPath>C:\Users\deaco\Downloads\FastColoredTextBox.dll</HintPath>
@@ -57,6 +66,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScriptHub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScriptHub.Designer.cs">
+      <DependentUpon>ScriptHub.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Overflow.resx">
       <DependentUpon>Overflow.cs</DependentUpon>
     </EmbeddedResource>
@@ -69,6 +84,10 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ScriptHub.resx">
+      <DependentUpon>ScriptHub.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="GR.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
