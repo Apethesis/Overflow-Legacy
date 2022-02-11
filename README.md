@@ -1,10 +1,17 @@
 # Overflow
 
+#What is Overflow?
+Overflow is a open sourced exploit. This isn't really a exploit at the minute more of it is just using the We Are Devs DLL. The next majour update wil be
 
-What is overflow? 
-Overflow is a fully open sourced exploit, designed to be used instead of traditional free exploits that more likely than not, contain viruses.
+# UI Redisign
+After that it will be
+# DLL Switcher
+Then it will be
+# Custom DLL
 
-If you do not trust this, feel free to look through the source code. As this is open source on GitHub, feel free to make a Fork of this and add anything you would like, such as custom DLLs or skins.
+# But why is Custom DLL such a low priority?
+I fucking hate C++ :D
+
 
 
 
