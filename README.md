@@ -1,6 +1,5 @@
 # Overflow-Legacy
 Just an old version of overflow now, still works but isn't good.
-Here is the [reason](/reason.md).
 Project moved to [here](https://github.com/Stealthr/Overflow).
 
 ## What is Overflow?
