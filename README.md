@@ -5,20 +5,14 @@ Overflow is a open sourced exploit. This isn't really a exploit at the minute mo
 
 **Next Updates**
 
-## UI Redisign
-Why is this top priority? this is ugly as fuck lol
-### After that it will be
-# DLL Switcher
-This is because some DLLs have more power than others.
-### Then it will be
-# Custom DLL
-Custom DLL is here because I do not like C++, and just a mix of DLLs will do good enough for awhile or until I have dedication to finish it
-## But why is Custom DLL such a low priority?
-I fucking hate C++ :D
+1. High Priority:
+   - UI Redesign
+   - DLL Switcher
 
+2. Medium Priority:
 
-
-
+3. Low Priority:
+   - Custom DLL
 
 
 
