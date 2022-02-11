@@ -59,7 +59,3 @@ I fucking hate C++ :D
 
 
 
-
-
-THATS RIGHT THIS IS WHAT YOU GET
-MY SUPER LASER PISS
