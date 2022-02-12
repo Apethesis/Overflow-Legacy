@@ -150,7 +150,7 @@ namespace Overflow
             this.fastColoredTextBox1.ServiceColors = ((FastColoredTextBoxNS.ServiceColors)(resources.GetObject("fastColoredTextBox1.ServiceColors")));
             this.fastColoredTextBox1.Size = new System.Drawing.Size(492, 268);
             this.fastColoredTextBox1.TabIndex = 1;
-            this.fastColoredTextBox1.Text = "-- By the overflow Team\r\n\r\n-- Pre-release Version \r\n";
+            this.fastColoredTextBox1.Text = "-- By the Overflow Team\r\n\r\n-- Legacy Edition \r\n";
             this.fastColoredTextBox1.Zoom = 100;
             this.fastColoredTextBox1.Load += new System.EventHandler(this.fastColoredTextBox1_Load);
             // 
