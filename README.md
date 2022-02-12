@@ -1,6 +1,6 @@
 # Overflow-Legacy
-Just an old version of Overflow now, still works but isn't good.\n
-Project moved to [here](https://github.com/Stealthr/Overflow).\n
+Just an old version of Overflow now, still works but isn't good.
+Project moved to [here](https://github.com/Stealthr/Overflow).
 The end....?
 
 ## What is Overflow?
