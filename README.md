@@ -1,8 +1,6 @@
 # Overflow-Legacy
-Just an old version of Overflow now, still works but isn't good.
-Project moved to [here](https://github.com/Stealthr/Overflow).
-The end....?
-
+~~Just an old version of Overflow now, still works but isn't good. Project moved to [here](https://github.com/Stealthr/Overflow). The end....?~~
+Nope! Not anymore.
 ## What is Overflow?
 Overflow is a open sourced exploit. This isn't really a exploit at the minute more of it is just using the WeAreDevs DLL (skiddish, i know).
 
@@ -16,6 +14,11 @@ Overflow is a open sourced exploit. This isn't really a exploit at the minute mo
 
 3. Low Priority:
    - Custom DLL
+
+### Build Requirements
+1. .NET Framework 4.7.2
+2. Visual Studio 2019/2022
+3. Windows 10
 
 
 
