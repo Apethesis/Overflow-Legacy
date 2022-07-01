@@ -1,9 +1,5 @@
-# WE BACK
-## FAGGOT MONTH IS OVER AND WE ARE FUCKING BACK
-stealth stop being publicly homophobic, i do not want to get incinerated in the minecraft computer mods discord
-# no fuck off
 # Overflow-Legacy
-Turns out its truly the end.. might convince Stealth to continue it with me.
+Not the end, just gotta hope Stealth doesn't drop it again.
 ## What is Overflow?
 Overflow is a open sourced exploit. This isn't really a exploit at the minute more of it is just using the WeAreDevs DLL (skiddish, i know).
 
@@ -19,9 +15,13 @@ Overflow is a open sourced exploit. This isn't really a exploit at the minute mo
    - Custom DLL
 
 ### Build Requirements
+
+## Windows
 1. .NET Framework 4.7.2
 2. Visual Studio 2019/2022
-3. Windows 10
+
+## Linux
+1. Latest ``mono`` and ``mono-msbuild``
 
 
 
