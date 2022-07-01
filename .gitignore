@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+Overflow/FastColoredTextBox.dll
+FastColoredTextBox.dll
+WeAreDevs_API.dll

@@ -35,16 +35,8 @@
   <PropertyGroup>
     <SignManifests>true</SignManifests>
   </PropertyGroup>
-  <PropertyGroup>
-    <ManifestCertificateThumbprint>C83259801A933D35B40015C0B736BB1FCC691B65</ManifestCertificateThumbprint>
-  </PropertyGroup>
-  <PropertyGroup>
-    <ManifestKeyFile>GR.pfx</ManifestKeyFile>
-  </PropertyGroup>
   <ItemGroup>
-    <Reference Include="FastColoredTextBox">
-      <HintPath>C:\Users\deaco\Downloads\FastColoredTextBox.dll</HintPath>
-    </Reference>
+    <Reference Include="FastColoredTextBox" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -56,9 +48,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="WeAreDevs_API">
-      <HintPath>C:\Users\deaco\Downloads\WeAreDevs_API.dll</HintPath>
-    </Reference>
+    <Reference Include="WeAreDevs_API" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Functions.cs" />
