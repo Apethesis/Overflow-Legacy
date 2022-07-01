@@ -1,5 +1,6 @@
 # WE BACK
 ## FAGGOT MONTH IS OVER AND WE ARE FUCKING BACK
+stealth stop being publicly homophobic, i do not want to get incinerated in the minecraft computer mods discord
 # Overflow-Legacy
 Turns out its truly the end.. might convince Stealth to continue it with me.
 ## What is Overflow?
