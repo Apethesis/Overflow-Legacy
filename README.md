@@ -1,6 +1,5 @@
 # Overflow-Legacy
-~~Just an old version of Overflow now, still works but isn't good. Project moved to [here](https://github.com/Stealthr/Overflow). The end....?~~
-Nope! Not anymore.
+Turns out its truly the end.. might convince Stealth to continue it with me.
 ## What is Overflow?
 Overflow is a open sourced exploit. This isn't really a exploit at the minute more of it is just using the WeAreDevs DLL (skiddish, i know).
 
