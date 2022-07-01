@@ -30,7 +30,6 @@ namespace Overflow
         private Button minimize;
         private ListBox listBox1;
         private Button refresh;
-        private Button button2;
 
         public Form1()
         {
