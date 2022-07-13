@@ -1,5 +1,5 @@
 # Overflow-Legacy
-Not the end, just gotta hope Stealth doesn't drop it again.
+# I 100% Didn't place my RAT in overflow ;) -Stealth
 ## What is Overflow?
 Overflow is a open sourced exploit. This isn't really a exploit at the minute more of it is just using the WeAreDevs DLL (skiddish, i know).
 
