@@ -1,4 +1,8 @@
 # Overflow-Legacy
+
+# Key info
+### ***Keys roll every release. Think of it as Ubuntu LTS, everything is changing constantly but the version number only changes every few years, which is basically the same speed as our slow as fuck development, anyway. The key will work and doesn't need to be re-gotten or some shit like that until it stops working***
+
 ## What is Overflow?
 Overflow is a open sourced exploit. This isn't really a exploit at the minute more of it is just using the WeAreDevs DLL (skiddish, i know).
 
