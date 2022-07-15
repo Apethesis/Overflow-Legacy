@@ -8,5 +8,5 @@ jobs:
       - name: Get repo files
         uses: actions/checkout@v3
       
-      - name: Testing
-        run: ls
+      - name: Build
+        run: mono-msbuild Overflow.sln
