@@ -36,7 +36,21 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="FastColoredTextBox" />
+    <Reference Include="Bunifu.UI.WinForms.1.5.3">
+      <HintPath>D:\New folder (2)\bunifu crack\Bunifu.UI.WinForms.1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>D:\New folder (2)\bunifu crack\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>D:\New folder (2)\bunifu crack\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>D:\New folder (2)\bunifu crack\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="FastColoredTextBox">
+      <HintPath>..\..\..\..\Downloads\FastColoredTextBox.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,10 +62,18 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="WeAreDevs_API" />
+    <Reference Include="WeAreDevs_API">
+      <HintPath>..\..\..\..\Downloads\WeAreDevs_API.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Functions.cs" />
+    <Compile Include="KeySystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KeySystem.Designer.cs">
+      <DependentUpon>KeySystem.cs</DependentUpon>
+    </Compile>
     <Compile Include="Overflow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,9 +85,13 @@
     <Compile Include="ScriptHub.Designer.cs">
       <DependentUpon>ScriptHub.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="KeySystem.resx">
+      <DependentUpon>KeySystem.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Overflow.resx">
       <DependentUpon>Overflow.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
