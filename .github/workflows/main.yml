@@ -1,7 +1,7 @@
       - name: Send my embed to discord channel
         uses: tsickert/discord-webhook@v4.0.0
         with:
-          webhook-url: ${{ https://discord.com/api/webhooks/997924927741100174/KMP31WryyMExhRQf0TN7QGnVdjOU4tkkW9hWTyeti_rochWaf4e5sFoTOtZ_xT1NyNdY}}
+          webhook-url: ${{https://discord.com/api/webhooks/997924927741100174/KMP31WryyMExhRQf0TN7QGnVdjOU4tkkW9hWTyeti_rochWaf4e5sFoTOtZ_xT1NyNdY}}
           content: "New Github Activity"
           embed-title: "New Github Activity"
           embed-description: "New Github Activity"
