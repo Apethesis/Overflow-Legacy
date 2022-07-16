@@ -1,8 +1,11 @@
-      - name: Send my embed to discord channel
-        uses: tsickert/discord-webhook@v4.0.0
-        with:
-          webhook-url: ${{https://discord.com/api/webhooks/997924927741100174/KMP31WryyMExhRQf0TN7QGnVdjOU4tkkW9hWTyeti_rochWaf4e5sFoTOtZ_xT1NyNdY}}
-          content: "New Github Activity"
-          embed-title: "New Github Activity"
-          embed-description: "New Github Activity"
-          embed-thumbnail-url: "https://www.google.com/search?q=discord+embed"
+- name: Discord Commits
+  # You may pin to the exact commit or the version.
+  # uses: Sniddl/discord-commits@2da985f8398f434a0aef33d133b13a6b22e49c12
+  uses: Sniddl/discord-commits@v1.3
+  with: 
+    # discord webhook url without /github
+    webhook: https://discord.com/api/webhooks/997924927741100174/KMP31WryyMExhRQf0TN7QGnVdjOU4tkkW9hWTyeti_rochWaf4e5sFoTOtZ_xT1NyNdY
+    # A general message that is displayed for all commits.
+    message: # optional
+    # JSON string that accepts double braces for templating.
+    embed: # optional
